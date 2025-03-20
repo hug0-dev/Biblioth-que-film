@@ -10,11 +10,11 @@ Pour installer et exécuter ce projet localement, assurez-vous d'avoir Node.js e
 
 1. Clonez le dépôt :
    ```
-   git clone https://github.com/hug0-dev/ReactJS.git
+   git clone git@github.com:hug0-dev/Bibliotheque-film.git
    ```
 2. Accédez au dossier du projet :
    ```
-   cd tp_restauration
+   cd bibliotheque-film
    ```
 3. Installez les dépendances nécessaires avec npm :
    ```
